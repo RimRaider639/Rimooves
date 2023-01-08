@@ -32,7 +32,7 @@ import {
 } 
  function Layout({id, Images, Title, Year, Plot, Released, Type, Runtime, Genre, Director, Writer, Actors, Language, Country, Awards, imdbRating, imdbVotes}) {
     const addToWishlist = () => {
-        axios.post(`http://localhost:8080/wishlist`, {
+        axios.post(`https://puce-handsome-elk.cyclic.app/wishlist`, {
             id,
             image: Images[0],
             title: Title
