@@ -3,7 +3,7 @@
 
 A movie viewing app using server side rendering, with integrated wishlist. 
 
-Responsive | Dark-mode supported
+**Responsive | Dark-mode supported**
 
 ## Landing page
 
