@@ -13,12 +13,12 @@ const Wishlist = () => {
     router.push("/movies/"+id)
   }
   const fetchData = () => {
-    axios.get(`https://puce-handsome-elk.cyclic.app/wishlist`)
+    axios.get(`https://gold-thankful-peacock.cyclic.app/wishlist`)
     .then(res=>setData(res.data))
     .catch(err=>console.log(err))
   }
   const remove = (id) => {
-    axios.delete(`https://puce-handsome-elk.cyclic.app/wishlist/${id}`)
+    axios.delete(`https://gold-thankful-peacock.cyclic.app/wishlist/${id}`)
     .then(res=>fetchData())
     .catch(err=>console.log(err))
   }
