@@ -18,4 +18,7 @@ A movie viewing app using server side rendering, with integrated wishlist.
 ![image](https://user-images.githubusercontent.com/112859531/222214976-cd7791d4-c8be-4b8a-9ac2-f05a2acfe9b8.png)
 ![image](https://user-images.githubusercontent.com/112859531/222215041-cfce63dc-8d4f-4be5-8734-2d1797e5fb93.png)
 
+## Wishlist
+
+![image](https://user-images.githubusercontent.com/112859531/225527342-692516a1-5562-4cb4-a2bf-41f9620148bf.png)
 
