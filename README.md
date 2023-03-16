@@ -1,36 +1,21 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Rimooves
+![nextJS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
-## Getting Started
+A movie viewing app using server side rendering, with integrated wishlist. 
 
-First, run the development server:
+Responsive | Dark-mode supported
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+## Landing page
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+![image](https://user-images.githubusercontent.com/112859531/222214461-3dcfe484-db07-4560-b81a-b95509f0daad.png)
+![image](https://user-images.githubusercontent.com/112859531/222215276-e5e11d56-f67b-4eb0-b7cb-6baa7d481381.png)
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+## Single Movie Page
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+![image](https://user-images.githubusercontent.com/112859531/222214707-6f43c066-bbcc-44e0-b0c1-36a06136c595.png)
+![image](https://user-images.githubusercontent.com/112859531/222214770-72603953-33c0-4865-90d2-172d0e18fcc7.png)
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+![image](https://user-images.githubusercontent.com/112859531/222214976-cd7791d4-c8be-4b8a-9ac2-f05a2acfe9b8.png)
+![image](https://user-images.githubusercontent.com/112859531/222215041-cfce63dc-8d4f-4be5-8734-2d1797e5fb93.png)
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
